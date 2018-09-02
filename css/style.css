@@ -1110,7 +1110,7 @@ a.article-title:hover {
   content: "#";
 }
 .article-entry {
-  color: #008000;
+  color: default-color;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6em;
@@ -1145,7 +1145,7 @@ a.article-title:hover {
   margin: 1.3em 0;
 }
 .article-entry a {
-  color: #006bde;
+  color: #008000;
   text-decoration: none;
 }
 .article-entry a:hover {
